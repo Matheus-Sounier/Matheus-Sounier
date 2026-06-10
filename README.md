@@ -10,33 +10,18 @@
 
 ---
 
-<p>
+<p align="center">
   <a href="http://www.linkedin.com/in/matheus-dos-santos-sounier">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=00ff87" />
+    <img src="https://img.shields.io/badge/LinkedIn%20Learning-0f172a?style=for-the-badge&logo=linkedin-white&logoColor=00ff87" />
   </a>
   <a href="mailto:matheus.sounier2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00ff87" />
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00ff87" />
   </a>
   <a href="https://github.com/Matheus-Sounier">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff87" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS&labelColor=020617" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=00ff87&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
-
-```bash
-sounier@github:~$ cat about.txt
-
-  ┌─────────────────────────────────────────────────────────┐
-  │  Backend Developer focused on efficiency and            │
-  │  real-world solutions computer vision, automation,      │
-  │  containerized environments and data-driven systems.    │
-  │                                                         │
-  │  ✔  Computer Vision Systems    [ SHIPPED ]              │
-  │  ✔  Backend APIs (Django)      [ RUNNING ]              │
-  │  ✔  Process Automation         [ ACTIVE  ]              │
-  │  ✔  Docker Environments        [ LIVE    ]              │
-  └─────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -54,9 +39,9 @@ sounier@github:~$ cat about.txt
 ---
 
 ## Tech Stack
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/master/metrics.plugin.languages.svg" />
-</p>
+</p> -->
 
 ### Languages
 
@@ -82,8 +67,8 @@ sounier@github:~$ cat about.txt
 ### Databases & DevOps
 
 <p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=00ff87" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/Oracle-0f172a?style=for-the-badge&logo=oracle&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-0f172a?style=for-the-badge&logo=oracle&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/SSH-0f172a?style=for-the-badge&logo=openssh&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00ff87" />
@@ -99,7 +84,7 @@ sounier@github:~$ cat about.txt
   <img src="https://img.shields.io/badge/UML-0f172a?style=for-the-badge&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/BAAN%20IV-0f172a?style=for-the-badge&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/CMake-0f172a?style=for-the-badge&logo=cmake&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=00ff87" />
 </p>
 
 ---
@@ -108,7 +93,7 @@ sounier@github:~$ cat about.txt
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
 </div>
 
 ---
