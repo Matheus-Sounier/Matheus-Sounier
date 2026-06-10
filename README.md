@@ -8,20 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Process+Automation+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
 </p>
 
-```bash
-sounier@github:~$ cat about-Matheus.txt
-
-Backend Developer focused on efficiency and
-real-world solutions computer vision, automation,
-containerized environments and data-driven systems. 
-
-✔  Computer Vision Systems      [ SHIPPED ]
-✔  Backend APIs  (Django/Node)  [ RUNNING ]
-✔  Real-Time Embedded Systems   [ SHIPPED ]
-✔  Containerized Environments   [ LIVE    ]
-✔  Process Automation           [ ACTIVE  ]
-```
-
 ---
 
 <p align="center">
@@ -39,6 +25,21 @@ containerized environments and data-driven systems.
 
 ---
 
+```bash
+sounier@github:~$ cat about-Matheus.txt
+
+Backend Developer focused on efficiency and
+real-world solutions computer vision, automation,
+containerized environments and data-driven systems. 
+
+✔  Computer Vision Systems      [ SHIPPED ]
+✔  Backend APIs  (Django/Node)  [ RUNNING ]
+✔  Real-Time Embedded Systems   [ SHIPPED ]
+✔  Containerized Environments   [ LIVE    ]
+✔  Process Automation           [ ACTIVE  ]
+```
+
+---
 
 ## Projects
 
