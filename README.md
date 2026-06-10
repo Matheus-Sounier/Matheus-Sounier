@@ -33,19 +33,19 @@
 
 <br />
 
-```js
-const developer = {
-    name: "Matheus Sounier",
-    age: 18,
-    role: "Backend & Computer Vision Developer",
-    status: "● building real-time and computer vision systems",
-    focus: [
-        "Backend Development",
-        "Computer Vision",
-        "Real-Time Systems",
-        "Embedded Systems",
+```py
+matheus = {
+    "name": "Matheus dos Santos Sounier",
+    "age": 18,
+    "role": "Backend & Computer Vision Developer",
+    "status": "● building real-time and computer vision systems",
+    "focus": [
+      "Backend Development",
+      "Computer Vision",
+      "Real-Time Systems",
+      "Embedded Systems",
     ],
-    background: [
+    "background": [
         "Computer Vision & Facial Tracking",
         "Motion Detection & Real-Time Processing",
         "REST API Architecture",
