@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&text=Matheus%20Sounier&fontColor=00ff87&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Vision%20%7C%20Automation&descAlignY=60&descColor=a3e4c9&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&text=Matheus%20Sounier&fontColor=00ff87&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Vision%20%7C%20Real-Time%20Systems&descAlignY=60&descColor=a3e4c9&animation=fadeIn" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Process+Automation+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Embedded+Systems+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
 </p>
 
 <p align="center">
@@ -33,18 +33,26 @@
 
 <br />
 
-```bash
-sounier@github:~$ cat about-Matheus.txt
-
-Backend Developer focused on efficiency and
-real-world solutions computer vision, automation,
-containerized environments and data-driven systems. 
-
-✔  Computer Vision Systems      [ SHIPPED ]
-✔  Backend APIs  (Django/Node)  [ RUNNING ]
-✔  Real-Time Embedded Systems   [ SHIPPED ]
-✔  Containerized Environments   [ LIVE    ]
-✔  Process Automation           [ ACTIVE  ]
+```js
+const developer = {
+    name: "Matheus Sounier",
+    age: 18,
+    role: "Backend & Computer Vision Developer",
+    status: "● building real-time and computer vision systems",
+    focus: [
+        "Backend Development",
+        "Computer Vision",
+        "Real-Time Systems",
+        "Embedded Systems",
+    ],
+    background: [
+        "Computer Vision & Facial Tracking",
+        "Motion Detection & Real-Time Processing",
+        "REST API Architecture",
+        "Dockerized Environments",
+        "Oracle Database Integration"
+    ]
+}
 ```
 
 ---
@@ -55,9 +63,9 @@ containerized environments and data-driven systems.
 |---|---|---|
 | **[Eye-Control Gaming System](https://github.com/Matheus-Sounier/Eye-Control-Gaming-System.git)** | Blink-to-command system for real-time game control via facial tracking | Python · OpenCV · MediaPipe · CVzone |
 | **[Real-Time Motion Gaming](https://github.com/Matheus-Sounier/Real-Time-Motion-Gaming.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
-| **[Kraken-arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C++ · PlatformIO · Wokwi|
-| **[Acervo Digital](https://github.com/Matheus-Sounier/Acervo_Digital_New_Refactored.git)** | System working as layered REST API architecture and cloud-ready deployment | JavaScript · NodeJS · Oracle · Nginx · Docker |
-| **[MVP-web-commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | System built with architecture REST API, caching layer and containerized deployment | Python · Django · Oracle · Docker |
+| **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C++ · PlatformIO · Wokwi |
+| **[Acervo Digital](https://github.com/Matheus-Sounier/Acervo_Digital_New_Refactored.git)** | REST API built with layered architecture and containerized deployment | JavaScript · Node.js · Express.js · Oracle Database · Docker · Nginx |
+| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle Cloud · Docker |
 
 ## Tech Stack
 <!-- <p align="center">
@@ -111,7 +119,7 @@ containerized environments and data-driven systems.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-seven-theta.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&cache_seconds=0" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&cache_seconds=0" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
 </div>
 
