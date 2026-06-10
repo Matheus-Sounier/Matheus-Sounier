@@ -111,7 +111,7 @@ containerized environments and data-driven systems.
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87" />
+  <img height="180" src="https://github-readme-stats-seven-theta.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&cache_seconds=0" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
 </div>
 
