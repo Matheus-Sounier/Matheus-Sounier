@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Process+Automation+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
 </p>
 
----
-
 <p align="center">
   <a href="http://www.linkedin.com/in/matheus-dos-santos-sounier">
     <img src="https://img.shields.io/badge/LinkedIn%20Learning-0f172a?style=for-the-badge&logo=linkedin-white&logoColor=00ff87" />
@@ -23,7 +21,17 @@
   <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=00ff87&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
 
----
+<br />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/ocean.svg" alt="Matheus' contribution snake" />
+  </picture>
+</p>
+
+<br />
 
 ```bash
 sounier@github:~$ cat about-Matheus.txt
@@ -50,8 +58,6 @@ containerized environments and data-driven systems.
 | **[Kraken-arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C++ · PlatformIO · Wokwi|
 | **[Acervo Digital](https://github.com/Matheus-Sounier/Acervo_Digital_New_Refactored.git)** | System working as layered REST API architecture and cloud-ready deployment | JavaScript · NodeJS · Oracle · Nginx · Docker |
 | **[MVP-web-commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | System built with architecture REST API, caching layer and containerized deployment | Python · Django · Oracle · Docker |
-
----
 
 ## Tech Stack
 <!-- <p align="center">
@@ -102,15 +108,11 @@ containerized environments and data-driven systems.
   <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=00ff87" />
 </p>
 
----
-
 ## GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
 </div>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&section=footer" />
