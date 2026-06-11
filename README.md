@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/matheus-dos-santos-sounier">
-    <img src="https://img.shields.io/badge/LinkedIn%20Learning-0f172a?style=for-the-badge&logo=linkedin-white&logoColor=00ff87" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin-white&logoColor=00ff87" />
   </a>
   <a href="mailto:matheus.sounier2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00ff87" />
@@ -69,9 +69,10 @@ developer = {
 | **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle Cloud · Docker |
 
 ## Tech Stack
-<!-- <p align="center">
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/master/metrics.plugin.languages.svg" />
-</p> -->
+</p>
 
 ### Languages
 
@@ -121,13 +122,10 @@ developer = {
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&cache_seconds=0" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
-</div>
-
-<p align="center">
+  <!-- <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" /> -->
   <img
     src="https://streak-stats.demolab.com?user=Matheus-Sounier&background=0F172A&border=00FF87&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF87&sideLabels=A3E4C9&dates=A3E4C9" alt="GitHub Streak"
   />
-</p>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&section=footer" />
