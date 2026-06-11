@@ -124,4 +124,10 @@ developer = {
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87" />
 </div>
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Matheus-Sounier&background=0F172A&border=00FF87&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF87&sideLabels=A3E4C9&dates=A3E4C9" alt="GitHub Streak"
+  />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&section=footer" />
