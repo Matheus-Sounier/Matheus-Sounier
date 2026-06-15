@@ -19,7 +19,7 @@
   <a href="https://github.com/Matheus-Sounier">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff87" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=00ff87&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
 
 <br />
@@ -69,8 +69,8 @@ developer = {
 | **[Eye-Control Gaming System](https://github.com/Matheus-Sounier/Eye-Control-Gaming-System.git)** | Blink-to-command system for real-time game control via facial tracking | Python · OpenCV · MediaPipe · CVzone |
 | **[Real-Time Motion Gaming](https://github.com/Matheus-Sounier/Real-Time-Motion-Gaming.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
+| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle Cloud · Docker · Redis · Nginx |
 | **[Acervo Digital](https://github.com/Matheus-Sounier/Acervo_Digital_New_Refactored.git)** | REST API built with layered architecture and containerized deployment | JavaScript · Node.js · Express.js · Oracle Database · Docker · Nginx |
-| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle Cloud · Docker |
 
 ## Tech Stack
 
@@ -115,6 +115,7 @@ developer = {
   <img src="https://img.shields.io/badge/SSH-0f172a?style=for-the-badge&logo=openssh&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=00ff87" />
   
 </p>
 
