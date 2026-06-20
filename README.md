@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Embedded+Systems+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Embedded+Systems+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+YOLO+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
 </p>
 
 <p align="center">
@@ -66,11 +66,11 @@ developer = {
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Eye-Control Gaming System](https://github.com/Matheus-Sounier/Eye-Control-Gaming-System.git)** | Blink-to-command system for real-time game control via facial tracking | Python · OpenCV · MediaPipe · CVzone |
-| **[Real-Time Motion Gaming](https://github.com/Matheus-Sounier/Real-Time-Motion-Gaming.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
+| **[Eye Control System](https://github.com/Matheus-Sounier/Eye-Control-System.git)** | Blink-to-command system for real-time game control via facial tracking | Python · OpenCV · MediaPipe · CVzone |
+| **[Real Time Motion](https://github.com/Matheus-Sounier/Real-Time-Motion.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
+| **[Acervo Digital](https://github.com/Matheus-Sounier/Automatic-Number-Plate-Recognition.git)** | Automatic car plate recognition and storage in the database | Python · OpenCV · YOLO · PaddleOCR · SORT · Oracle DataBase |
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
-| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle Cloud · Docker · Redis · Nginx |
-| **[Acervo Digital](https://github.com/Matheus-Sounier/Acervo_Digital_New_Refactored.git)** | REST API built with layered architecture and containerized deployment | JavaScript · Node.js · Express.js · Oracle Database · Docker · Nginx |
+| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle DataBase · Docker · Redis · Nginx |
 
 ## Tech Stack
 
@@ -99,8 +99,9 @@ developer = {
 
 <p>
   <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/YOLO-0f172a?style=for-the-badge&logo=yolo&logoColor=00ff87" />
+  <img src="https://img.shields.io/badge/PaddleOCR-0f172a?style=for-the-badge&logo=paddlepaddle&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/MediaPipe-0f172a?style=for-the-badge&logo=google&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Selenium-0f172a?style=for-the-badge&logo=selenium&logoColor=00ff87" />
@@ -110,9 +111,7 @@ developer = {
 
 <p>
   <img src="https://img.shields.io/badge/Oracle-0f172a?style=for-the-badge&logo=oracle&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-0f172a?style=for-the-badge&logo=oracle&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/SSH-0f172a?style=for-the-badge&logo=openssh&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=00ff87" />
   <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=00ff87" />
