@@ -68,7 +68,7 @@ developer = {
 |---|---|---|
 | **[Eye Control System](https://github.com/Matheus-Sounier/Eye-Control-System.git)** | Blink-to-command system for real-time game control via facial tracking | Python · OpenCV · MediaPipe · CVzone |
 | **[Real Time Motion](https://github.com/Matheus-Sounier/Real-Time-Motion.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
-| **[Acervo Digital](https://github.com/Matheus-Sounier/Automatic-Number-Plate-Recognition.git)** | Automatic car plate recognition and storage in the database | Python · OpenCV · YOLO · PaddleOCR · SORT · Oracle DataBase |
+| **[ANPR](https://github.com/Matheus-Sounier/Automatic-Number-Plate-Recognition.git)** | Automatic car plate recognition and storage in the database | Python · OpenCV · YOLO · PaddleOCR · SORT · Oracle DataBase |
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
 | **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle DataBase · Docker · Redis · Nginx |
 
