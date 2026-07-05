@@ -141,7 +141,7 @@ developer = {
 
 ## Contribution
 
-<!-- <p align="center">
+<p align="center">
   <picture>
     <source   media="(prefers-color-scheme: dark)"
               srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake-dark.svg" />
@@ -150,7 +150,7 @@ developer = {
     <img      src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/ocean.svg"   
               alt="Matheus' contribution snake" />
   </picture>
-</p> -->
+</p>
 
 <img  width="100%" 
       src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:00ff87,80:00ff87,100:0f172a&section=footer" />
