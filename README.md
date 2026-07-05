@@ -25,9 +25,7 @@
 
 <!-- <img width="100%" src="./assets/animated-terminal.svg" alt="" /> -->
 
-<img width="100%" src="./assets/animated-divider.svg" alt="" />
-
-<!-- ```bash
+```bash
 
 sounier@user:~$ cat ./profile/about.py
 
@@ -51,7 +49,7 @@ developer = {
         "Oracle Database Integration"
     ]
 }
-``` -->
+```
 
 <img width="100%" src="./assets/animated-divider.svg" alt="" />
 
