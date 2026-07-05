@@ -23,7 +23,7 @@
   <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
 
-<!-- <img width="100%" src="./assets/animated-terminal.svg" alt="" /> -->
+<img width="100%" height="430" src="./assets/animated-terminal.svg" alt="" />
 
 ```bash
 
@@ -62,8 +62,6 @@ developer = {
 | **[ANPR](https://github.com/Matheus-Sounier/Automatic-Number-Plate-Recognition.git)** | Automatic car plate recognition and storage in the database and JSON | Python · OpenCV · YOLO · PaddleOCR · SORT · Oracle DataBase |
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
 | **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle DataBase · Docker · Redis · Nginx |
-
-<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## Tech Stack
 
@@ -136,6 +134,8 @@ developer = {
      alt="GitHub profile summary" />
   
 </div>
+
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## Contribution
 
