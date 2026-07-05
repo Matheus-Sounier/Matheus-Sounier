@@ -133,9 +133,9 @@ developer = {
   />
 
 
-  <!-- <img width="100%"
+  <img width="100%" height="330"
      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Sounier&theme=github_dark"
-     alt="GitHub profile summary" /> -->
+     alt="GitHub profile summary" />
   
 </div>
 
