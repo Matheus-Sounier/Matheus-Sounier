@@ -1,12 +1,13 @@
 <div align="center">
 
   <img  width="100%"
-        src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&text=Matheus%20Sounier&fontColor=00ff87&fontSize=42&fontAlignY=38&desc=Backend%20Developer%20%7C%20Computer%20Vision%20%7C%20Real-Time%20Systems&descAlignY=60&descColor=a3e4c9&animation=fadeIn" />
+        src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:00ff87,80:00ff87,100:0f172a&section=header" />
 
 </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00FF87&center=true&vCenter=true&width=700&lines=%24+whoami;Matheus+Sounier+%7C+Backend+Developer;%24+focus;Computer+Vision+%7C+Embedded+Systems+%7C+Web+Backend;%24+stack;Python+%7C+C%2B%2B+%7C+YOLO+%7C+Django+%7C+OpenCV;%24+status;Building+real-time+systems...+%5BACTIVE%5D" />
+
 </p>
 
 <p align="center">
@@ -22,22 +23,14 @@
   <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
 
-<br />
+<!-- <img width="100%" src="./assets/animated-terminal.svg" alt="" /> -->
 
-<p align="center">
-  <picture>
-    <source   media="(prefers-color-scheme: dark)"
-              srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake-dark.svg" />
-    <source   media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake.svg" />
-    <img      src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/ocean.svg"   
-              alt="Matheus' contribution snake" />
-  </picture>
-</p>
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
-<br />
+<!-- ```bash
 
-```py
+sounier@user:~$ cat ./profile/about.py
+
 developer = {
     "name": "Matheus dos Santos Sounier",
     "age": 18,
@@ -58,9 +51,9 @@ developer = {
         "Oracle Database Integration"
     ]
 }
-```
+``` -->
 
----
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
 
 ## Projects
 
@@ -72,18 +65,16 @@ developer = {
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
 | **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle DataBase · Docker · Redis · Nginx |
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## Tech Stack
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/master/metrics.plugin.languages.svg" />
-</p> -->
 <div  align="center">
   <img
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87&hide=html,php,css,scss,dockerfile,hack&langs_count=6"
   />
 </div>
-  
 
 ### Languages
 
@@ -129,6 +120,8 @@ developer = {
   <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=00ff87" />
 </p>
 
+<img width="100%" src="./assets/animated-divider.svg" alt="" />
+
 ## GitHub Stats
 
 <div align="center">
@@ -138,7 +131,27 @@ developer = {
         src="https://streak-stats.demolab.com?user=Matheus-Sounier&background=0F172A&border=00FF87&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF87&sideLabels=A3E4C9&dates=A3E4C9" 
         alt="GitHub Streak"
   />
+
+
+  <!-- <img width="100%"
+     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Sounier&theme=github_dark"
+     alt="GitHub profile summary" /> -->
+  
 </div>
 
+## Contribution
+
+<!-- <p align="center">
+  <picture>
+    <source   media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake-dark.svg" />
+    <source   media="(prefers-color-scheme: light)" 
+              srcset="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/github-snake.svg" />
+    <img      src="https://raw.githubusercontent.com/Matheus-Sounier/Matheus-Sounier/output/ocean.svg"   
+              alt="Matheus' contribution snake" />
+  </picture>
+</p> -->
+
 <img  width="100%" 
-      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:0d4f3c,80:00ff87,100:0f172a&section=footer" />
+      src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0f172a,40:00ff87,80:00ff87,100:0f172a&section=footer" />
+
