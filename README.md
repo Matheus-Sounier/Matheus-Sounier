@@ -25,30 +25,7 @@
 
 <img width="100%" height="430" src="./assets/animated-terminal.svg" alt="" />
 
-```bash
-sounier@user:~$ cat ./profile/about.py
-
-developer = {
-    "name": "Matheus dos Santos Sounier",
-    "age": 18,
-    "role": "Backend & Computer Vision Developer",
-    "status": "● building real-time and computer vision systems",
-    
-    "focus": [
-        "Backend Development",
-        "Computer Vision",
-        "Real-Time Systems",
-        "Embedded Systems",
-    ],
-    "background": [
-        "Computer Vision & Facial Tracking",
-        "Motion Detection & Real-Time Processing",
-        "REST API Architecture",
-        "Dockerized Environments",
-        "Oracle Database Integration"
-    ]
-}
-```
+<img width="100%" height="500" src="./assets/about.svg" alt="" />
 
 <img width="100%" src="./assets/animated-divider.svg" alt="" />
 
