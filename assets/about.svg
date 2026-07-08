@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1200 950"
+<svg viewBox="0 0 1500 950"
      preserveAspectRatio="xMidYMid meet"
      style="width:100%;height:auto;display:block;"
      xmlns="http://www.w3.org/2000/svg">
@@ -35,18 +35,18 @@
             <rect
                 x="65"
                 y="105"
-                width="1070"
+                width="1370"
                 height="770"
                 rx="8"/>
         </clipPath>
         <clipPath id="typingClip">
-            <rect x="281" y="108" width="0" height="30">
+            <rect x="282" y="108" width="0" height="30">
                 <animate
                     id="typeAnim"
                     attributeName="width"
                     from="0"
                     to="291"
-                    dur="1s"
+                    dur="0.8s"
                     begin="0s; clearReset.end+2s"
                     fill="freeze"
                     calcMode="linear"/>
@@ -60,7 +60,7 @@
             </rect>
         </clipPath>
         <clipPath id="typingClip2">
-            <rect x="281" y="815" width="0" height="30">
+            <rect x="282" y="815" width="0" height="30">
                 <animate
                     attributeName="width"
                     from="0"
@@ -100,13 +100,13 @@
         ]]></style>
     </defs>
     <rect
-        width="1200"
+        width="1500"
         height="950"
         fill="url(#background)"/>
     <rect
         x="45"
         y="35"
-        width="1110"
+        width="1410"
         height="870"
         rx="18"
         fill="url(#terminal)"
@@ -116,44 +116,44 @@
     <rect
         x="45"
         y="35"
-        width="1110"
+        width="1410"
         height="56"
         rx="18"
         fill="#111827"/>
     <rect
         x="45"
         y="72"
-        width="1110"
+        width="1410"
         height="19"
         fill="#111827"/>
     <circle cx="80" cy="63" r="7" fill="#ef4444"/>
     <circle cx="106" cy="63" r="7" fill="#f59e0b"/>
     <circle cx="132" cy="63" r="7" fill="#22c55e"/>
     <text x="175" y="69" class="mono title">Terminal</text>
-    <circle cx="1060" cy="63" r="6" fill="#22c55e"/>
-    <text x="1075" y="69" class="mono title" font-size="15" fill="#94a3b8">ONLINE</text>
+    <circle cx="1360" cy="63" r="6" fill="#22c55e"/>
+    <text x="1375" y="69" class="mono title" font-size="15" fill="#94a3b8">ONLINE</text>
     <text x="70" y="130" class="mono terminal-text">
         <tspan class="prompt-user">sounier@user:</tspan><tspan fill="#94a3b8">~$&#160;</tspan>
     </text>
     <g clip-path="url(#typingClip)">
-        <text x="281" y="130" class="mono terminal-text" fill="#94a3b8">cat ./profile/about.py</text>
+        <text x="282" y="130" class="mono terminal-text" fill="#94a3b8">cat ./profile/about.py</text>
     </g>
-    <rect x="281" y="110" width="3" height="26" fill="#00ff87" opacity="0">
+    <rect x="282" y="110" width="3" height="26" fill="#00ff87" opacity="0">
         <set attributeName="opacity" to="1" begin="typeAnim.begin" fill="freeze"/>
 
-        <set attributeName="x" to="281" begin="typeAnim.begin" fill="freeze"/>
+        <set attributeName="x" to="282" begin="typeAnim.begin" fill="freeze"/>
         <animate
             attributeName="x"
-            from="281"
+            from="282"
             to="573"
-            dur="1s"
+            dur="0.8s"
             begin="typeAnim.begin"
             fill="freeze"
             calcMode="linear"/>
         <animate
             attributeName="opacity"
             values="1;0;1"
-            dur="0.9s"
+            dur="0.8s"
             begin="typeAnim.begin+1.0s"
             repeatCount="3"/>
         <set attributeName="opacity" to="0" begin="typeAnim.begin+3.7s" fill="freeze"/>
@@ -267,23 +267,23 @@
                 <tspan class="prompt-user">sounier@user:</tspan><tspan fill="#94a3b8">~$&#160;</tspan>
             </text>
             <g clip-path="url(#typingClip2)">
-                <text x="281" y="837" class="mono terminal-text" fill="#94a3b8">clear</text>
+                <text x="282" y="837" class="mono terminal-text" fill="#94a3b8">clear</text>
             </g>
         </g>
-        <rect x="281" y="817" width="3" height="26" fill="#00ff87" opacity="0">
+        <rect x="282" y="817" width="3" height="26" fill="#00ff87" opacity="0">
             <set attributeName="opacity" to="1" begin="typeAnim.begin+4.0s" fill="freeze"/>
-            
-            <set attributeName="x" to="281" begin="typeAnim.begin+4.0s" fill="freeze"/>
+
+            <set attributeName="x" to="282" begin="typeAnim.begin+4.0s" fill="freeze"/>
             <animate
                 attributeName="opacity"
                 values="1;0;1"
-                dur="0.9s"
+                dur="0.8s"
                 begin="typeAnim.begin+4.0s"
                 repeatCount="indefinite"/>
             <set attributeName="opacity" to="1" begin="typeAnim.begin+19.0s" fill="freeze"/>
             <animate
                 attributeName="x"
-                from="281"
+                from="282"
                 to="348"
                 dur="0.5s"
                 begin="typeAnim.begin+19.0s"
