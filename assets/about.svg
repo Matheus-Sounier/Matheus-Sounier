@@ -1,5 +1,6 @@
-<svg width="1200" height="950"
-     viewBox="0 0 1200 950"
+<svg viewBox="0 0 1200 950"
+     preserveAspectRatio="xMidYMid meet"
+     style="width:100%;height:auto;display:block;"
      xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="background"
@@ -39,7 +40,7 @@
                 rx="8"/>
         </clipPath>
         <clipPath id="typingClip">
-            <rect x="282" y="108" width="0" height="30">
+            <rect x="281" y="108" width="0" height="30">
                 <animate
                     id="typeAnim"
                     attributeName="width"
@@ -59,7 +60,7 @@
             </rect>
         </clipPath>
         <clipPath id="typingClip2">
-            <rect x="282" y="815" width="0" height="30">
+            <rect x="281" y="815" width="0" height="30">
                 <animate
                     attributeName="width"
                     from="0"
@@ -135,13 +136,15 @@
         <tspan class="prompt-user">sounier@user:</tspan><tspan fill="#94a3b8">~$&#160;</tspan>
     </text>
     <g clip-path="url(#typingClip)">
-        <text x="282" y="130" class="mono terminal-text" fill="#94a3b8">cat ./profile/about.py</text>
+        <text x="281" y="130" class="mono terminal-text" fill="#94a3b8">cat ./profile/about.py</text>
     </g>
-    <rect x="282" y="110" width="3" height="26" fill="#00ff87" opacity="0">
+    <rect x="281" y="110" width="3" height="26" fill="#00ff87" opacity="0">
         <set attributeName="opacity" to="1" begin="typeAnim.begin" fill="freeze"/>
+
+        <set attributeName="x" to="281" begin="typeAnim.begin" fill="freeze"/>
         <animate
             attributeName="x"
-            from="282"
+            from="281"
             to="573"
             dur="1s"
             begin="typeAnim.begin"
@@ -264,11 +267,13 @@
                 <tspan class="prompt-user">sounier@user:</tspan><tspan fill="#94a3b8">~$&#160;</tspan>
             </text>
             <g clip-path="url(#typingClip2)">
-                <text x="282" y="837" class="mono terminal-text" fill="#94a3b8">clear</text>
+                <text x="281" y="837" class="mono terminal-text" fill="#94a3b8">clear</text>
             </g>
         </g>
-        <rect x="282" y="817" width="3" height="26" fill="#00ff87" opacity="0">
+        <rect x="281" y="817" width="3" height="26" fill="#00ff87" opacity="0">
             <set attributeName="opacity" to="1" begin="typeAnim.begin+4.0s" fill="freeze"/>
+            
+            <set attributeName="x" to="281" begin="typeAnim.begin+4.0s" fill="freeze"/>
             <animate
                 attributeName="opacity"
                 values="1;0;1"
@@ -278,7 +283,7 @@
             <set attributeName="opacity" to="1" begin="typeAnim.begin+19.0s" fill="freeze"/>
             <animate
                 attributeName="x"
-                from="282"
+                from="281"
                 to="348"
                 dur="0.5s"
                 begin="typeAnim.begin+19.0s"
