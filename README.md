@@ -1,8 +1,6 @@
 <div align="center">
-
   <img  width="100%"
         src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:00ff87,80:00ff87,100:0f172a&section=header" />
-
 </div>
 
 <p align="center">
@@ -32,7 +30,6 @@
     height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87&hide=html,php,css,scss,dockerfile,hack&langs_count=6"
   />
-
   <img  
       height="180" 
       src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&hide=issues,contribs" />
@@ -40,7 +37,7 @@
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## $ ./projects --table --detailed 
+## $ show ./projects --table --detailed 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -55,36 +52,30 @@
 ## $ which lang && cat stack.txt
 
 <div align="center">
-
   <img
     src="https://skillicons.dev/icons?i=py,cpp,js,bash,opencv,django,fastapi,selenium,docker,git,postman,linux,mysql&perline=7"
     alt="Tech Stack"
   />
-
   <img src="https://img.shields.io/badge/ai%20agents-39d353?style=flat-square&logo=openai&logoColor=white&labelColor=010409" alt="AI agents" />
-
 </div>
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## git log --graph --oneline --author=Matheus-Sounier
+## $ git log --graph --oneline --author=Matheus-Sounier
 
 <div align="center">
   <img
         src="https://streak-stats.demolab.com?user=Matheus-Sounier&background=0F172A&border=00FF87&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF87&sideLabels=A3E4C9&dates=A3E4C9" 
         alt="GitHub Streak"
   />
-
-
   <img width="100%" height="330"
      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matheus-Sounier&theme=github_dark"
      alt="GitHub profile summary" />
-  
 </div>
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## ./contributions --animate
+## $ show ./contributions --animate --snake
 
 <p align="center">
   <picture>
