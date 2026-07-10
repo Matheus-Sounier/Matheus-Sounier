@@ -17,8 +17,8 @@
   <a href="mailto:matheus.sounier2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00ff87" />
   </a>
-  <a href="https://github.com/Matheus-Sounier">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=00ff87" />
+  <a href="https://wa.me/5592985469050">
+    <img src="https://img.shields.io/badge/WhatsApp-0f172a?style=for-the-badge&logo=whatsapp&logoColor=00ff87" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
@@ -27,9 +27,20 @@
 
 <img width="100%" height="500" src="./assets/about.svg" alt="" />
 
-<img width="100%" src="./assets/animated-divider.svg" alt="" />
+<div  align="center">
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87&hide=html,php,css,scss,dockerfile,hack&langs_count=6"
+  />
 
-## Projects
+  <img  
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&hide=issues,contribs" />
+</div>
+
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
+
+## $ ./projects --table --detailed 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -37,68 +48,28 @@
 | **[Real Time Motion](https://github.com/Matheus-Sounier/Real-Time-Motion.git)** | Physical movement → game input via frame comparison and pixel analysis | C++ · OpenCV · CMake |
 | **[Smart Traffic Analytics](https://github.com/Matheus-Sounier/Automatic-Number-Plate-Recognition.git)** | Automatic car plate recognition and storage in the database with dashboard working via LLMs | Python · OpenCV · YOLO · PaddleOCR · ByteTracker · LLM · Oracle DataBase |
 | **[Kraken Arduino](https://github.com/Matheus-Sounier/Kraken_arduino.git)** | Line-following robot with analog sensors, PID control and runtime calibration | C/C++ · PlatformIO · Wokwi |
-| **[MVP Web Commerce](https://github.com/Matheus-Sounier/MVP-web-commerce.git)** | E-commerce platform built with RESTful APIs, caching strategies and cloud-ready deployment | Python · Django · Oracle DataBase · Docker · Redis · Nginx |
+| **[Face Access Control System](https://github.com/Matheus-Sounier/Face-Access-Control-System.git)** | End-to-end authentication platform, combines computer vision, vector databases and artificial intelligence | Python · OpenCV · FastAPI · MediaPipe · Oracle DataBase · Docker · LLM |
 
-## Tech Stack
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-<div  align="center">
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Sounier&layout=compact&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&title_color=00ff87&hide=html,php,css,scss,dockerfile,hack&langs_count=6"
-  />
-</div>
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-0f172a?style=for-the-badge&logo=html5&logoColor=00ff87" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/YOLO-0f172a?style=for-the-badge&logo=yolo&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/PaddleOCR-0f172a?style=for-the-badge&logo=paddlepaddle&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/MediaPipe-0f172a?style=for-the-badge&logo=google&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Selenium-0f172a?style=for-the-badge&logo=selenium&logoColor=00ff87" />
-</p>
-
-### Databases & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-0f172a?style=for-the-badge&logo=oracle&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=00ff87" />
-  
-</p>
-
-### Methodologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Scrum-0f172a?style=for-the-badge&logo=scrumalliance&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/UML-0f172a?style=for-the-badge&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/BAAN%20IV-0f172a?style=for-the-badge&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/CMake-0f172a?style=for-the-badge&logo=cmake&logoColor=00ff87" />
-  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=00ff87" />
-</p>
-
-<img width="100%" src="./assets/animated-divider.svg" alt="" />
-
-## GitHub Stats
+## $ which lang && cat stack.txt
 
 <div align="center">
-  <img  height="180" 
-        src="https://github-readme-stats.vercel.app/api?username=Matheus-Sounier&show_icons=true&theme=chartreuse-dark&bg_color=0f172a&border_color=00ff87&icon_color=00ff87&title_color=00ff87&hide=issues,contribs" />
+
+  <img
+    src="https://skillicons.dev/icons?i=py,cpp,js,bash,opencv,django,fastapi,selenium,docker,git,postman,linux,mysql&perline=7"
+    alt="Tech Stack"
+  />
+
+  <img src="https://img.shields.io/badge/ai%20agents-39d353?style=flat-square&logo=openai&logoColor=white&labelColor=010409" alt="AI agents" />
+
+</div>
+
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
+
+## git log --graph --oneline --author=Matheus-Sounier
+
+<div align="center">
   <img
         src="https://streak-stats.demolab.com?user=Matheus-Sounier&background=0F172A&border=00FF87&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF87&sideLabels=A3E4C9&dates=A3E4C9" 
         alt="GitHub Streak"
@@ -111,9 +82,9 @@
   
 </div>
 
-<img width="100%" src="./assets/animated-divider.svg" alt="" />
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## Contribution
+## ./contributions --animate
 
 <p align="center">
   <picture>
