@@ -21,13 +21,24 @@
   <img src="https://komarev.com/ghpvc/?username=Matheus-Sounier&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views" />
 </p>
 
-<img width="100%" height="430" src="./assets/animated-terminal.svg" alt="" />
+<img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-<img width="100%" height="500" src="./assets/about.svg" alt="" />
+## cat ./about-matheus.md
+
+I'm an 18-year-old Software Engineering student passionate about Industry 4.0 technologies, building backend applications that combine industrial software, Computer Vision, IoT, and intelligent automation. I enjoy solving real-world problems by designing scalable systems that connect devices, data, and AI.
+
+Currently, I'm focused on Python backend development, infrastructure, and real-time computer vision, exploring ERP integrations, distributed systems, and LLM-powered agents that transform operational data into actionable insights.
+
+- Backend development with Python, Django, FastAPI, and REST APIs
+- Computer Vision using OpenCV, MediaPipe, and real-time processing
+- Database design and integration with Oracle Database and PostgreSQL
+- Infrastructure, Docker, Linux, and scalable development environments
+- LLM-powered agents and AI workflows for analytics and automation
+- Industry 4.0 projects involving ERP systems, IoT, and intelligent vision pipelines
 
 <img width="100%" src="./assets/prompt-divider.svg" alt="" />
 
-## $ show ./projects --table --detailed 
+## $ cat ./projects --table --detailed 
 
 | Project | Description | Stack |
 |---|---|---|
@@ -43,7 +54,7 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,cpp,js,bash,opencv,django,fastapi,selenium,docker,git,postman,linux,mysql&perline=7"
+    src="https://skillicons.dev/icons?i=py,cpp,js,bash,opencv,django,fastapi,selenium,nextjs,docker,git,postman,linux,mysql"
     alt="Tech Stack"
   />
 
